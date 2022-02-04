@@ -13,5 +13,5 @@ Exploratory program to utilize my previously written GA code to work on graphs i
 ## Applications:
 I have used this GA to find solutions to equations and in finding optimal paths through graphs.
     
-## References Used:
+## References:
 References: https://arxiv.org/ftp/arxiv/papers/1308/1308.4675.pdf, https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
